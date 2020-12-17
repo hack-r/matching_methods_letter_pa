@@ -1,1 +1,3 @@
-# matching_methods_letter_pa
+# Propensity Scores Have Non-paradoxical Performance in Matching Under Real-world Conditions When Properly Applied
+
+This letter re-examines the "Propensity Score Paradox" described by King and Nielsen (2018). Data from King's simulations were found to contain statistical properties which mitigate the performance degradation of Propensity Score Matching (PSM) even with assumptions that represent a "worst case scenario" for PSM and "best case" for the alternative against which it is being compared. Additionally, PSM was found to outperform Mahalanobis Distance Matching (MDM) when assumptions underlying the simulations' data generating process (DGP) were altered to make them more reflective of real-world conditions in observational research.
